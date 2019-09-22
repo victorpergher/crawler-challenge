@@ -27,4 +27,4 @@ Condições de contorno
 - Script em python 3
 - Dados salvos em sqlite
 - Comandos CLI para: download dos dados, visualização, help
-- Necessário documentação simples de como instalar as dependências e rodar o script
+
